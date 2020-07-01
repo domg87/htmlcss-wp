@@ -52,6 +52,14 @@ main::after{
   background-color: #CC87DA;
 }
 
+.col-right-down-2{
+  float: right;
+  width: 23%;
+  margin-top: 10px;
+  margin-left: 1%;
+  background-color: #CC87DA;
+}
+
 footer{
   height: 50px;
   margin: 10px;
